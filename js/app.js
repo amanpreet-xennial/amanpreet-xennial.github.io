@@ -10,7 +10,7 @@ const login = async (targetUrl) => {
 
     const options = {
       authorizationParams: {
-        redirect_uri: 'https://jheguevara.github.io'
+        redirect_uri: 'https://amanpreet-xennial.github.io'
       }
     };
 
@@ -43,7 +43,7 @@ const logout = async () => {
 /**
  * Retrieves the auth configuration from the server
  */
-const fetchAuthConfig = () => fetch("https://jheguevara.github.io/auth_config.json");
+const fetchAuthConfig = () => fetch("https://amanpreet-xennial.github.io/auth_config.json");
 
 /**
  * Initializes the Auth0 client
