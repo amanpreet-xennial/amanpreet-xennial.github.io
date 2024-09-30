@@ -6,7 +6,7 @@ blurb: "We'll quickly build out opportunities for you, but with a new look."
 
 <link rel="manifest" href="manifest.json"/>
 
-<script defer="defer" src="static/js/main.0b1d1659.js"></script>
+<script defer="defer" src="static/js/main.dd77fa6d.js"></script>
 
 <link href="static/css/main.e6c13ad2.css" rel="stylesheet">
 
